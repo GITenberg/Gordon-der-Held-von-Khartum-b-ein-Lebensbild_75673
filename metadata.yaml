@@ -1,5 +1,8 @@
 _repo: Gordon-der-Held-von-Khartum-b-ein-Lebensbild_75673
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 75673-h/images/cover.jpg
 creator:
   author:
     agent_name: Anonymous
@@ -13,6 +16,8 @@ creator:
     - http://www.gutenberg.org/ebooks/author/49
 description: 'Reading ease score: 67.4 (8th & 9th grade). Neither easy nor difficult
   to read.'
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/75673#Gordon-der-Held-von-Khartum-b-ein-Lebensbild
 edition_note: Neue Volks-ausgabe.
 gutenberg_bookshelf:
 - 'Browsing: Biographies'
